@@ -1,6 +1,7 @@
 > ALL MODULE
 
 - 개발할때 도움될만한 기능들이 들어가 있습니다.
+계속 업데이트됩니다.
 
 > 다운로드 방법
 
@@ -70,3 +71,7 @@ const t = new TimeStamp(new Date());
 console.log(t.koreaTimeStamp());
 console.log(t.discordTimeStamp());
 ```
+
+> 업데이트 기록
+
+- 2023:05:14 ( ALL MODULE 출시 )
