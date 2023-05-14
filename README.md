@@ -6,7 +6,7 @@
 
 > 영상
 
-<iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/QLdWDHX5j23/embed" width="640" height="360"></iframe>
+https://clipchamp.com/watch/QLdWDHX5j23/embed
 
 > 다운로드 방법
 
