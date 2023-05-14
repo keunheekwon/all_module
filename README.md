@@ -4,4 +4,6 @@
 
 > 다운로드 방법
 > 
-```npm i @keunheekwon/all_module```
+```
+npm i @keunheekwon/all_module
+```
