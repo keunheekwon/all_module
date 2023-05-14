@@ -4,6 +4,10 @@
 
 계속 업데이트됩니다.
 
+> 영상
+
+<img src="https://clipchamp.com/watch/QLdWDHX5j23">
+
 > 다운로드 방법
 
 ```cmd
